@@ -1,4 +1,4 @@
-Flask==2.1.3
+Flask==2.2.2
 dash==2.6.*
 gretel-synthetics==0.18.1
 gunicorn
